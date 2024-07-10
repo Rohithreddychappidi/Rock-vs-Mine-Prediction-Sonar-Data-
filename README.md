@@ -1,0 +1,2 @@
+R=Rock
+M=Mine
